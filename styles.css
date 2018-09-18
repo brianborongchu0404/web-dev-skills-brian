@@ -1,0 +1,83 @@
+/*STyie Sheet for Web Development Skills Page*/
+
+/*Text Styles*/
+
+html{
+    background-image: url("images/computer-1209641_1920.jpg");
+    background-repeat: no-repeat;
+}
+
+div{
+    border-radius:25px;
+    width:600px;
+    margin: 50px  auto;
+    padding:40px 75px;
+    background-color: white;
+}
+
+.html{
+    border:2px solid #E44D26;
+    box-shadow:2px 2px #e44d26;
+}
+
+.css{
+    border:2px solid rgb(1, 112, 186) ;
+    box-shadow:2px 2px rgb(1, 112, 186);
+}
+.js{border:2px solid #F7DF1E ;
+    box-shadow:2px 2px #F7DF1E;
+}
+
+p   {
+    font-family: 'Indie Flower', cursive;
+    letter-spacing: 3px;
+}
+
+ h1  {
+     font-family:"Comic Sans MS";
+     color:white;
+     text-align:center;
+     letter-spacing: 2px;
+     font-size: 45px;
+     text-shadow:2px 2px;
+ }
+
+ h2  {
+     font-family:"Comic Sans MS";
+ }
+ ul{
+    font-family: 'Indie Flower', cursive;
+    letter-spacing: 3px; 
+}
+span{
+    font-family:Papyrus;
+}
+/*Tutorial Notes*/
+ .tutorial{
+
+    font-size: 12px;
+ }
+ 
+ /*Link Styles*/
+ a{
+     color:#0000cc;
+     text-decoration: none;
+ }
+ a:hover{
+     text-decoration: underline;
+ }
+
+ p:hover{
+     color:black;
+ }
+ 
+ ul:hover{
+     color:black;
+ }
+ 
+ /*image style*/
+ img{
+     widows: 30px;
+     height: 30px;
+     vertical-align:  middle;
+ }
